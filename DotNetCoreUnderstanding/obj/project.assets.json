@@ -5804,11 +5804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\D\\Logical\\LogicalPrograms\\DotNetCoreUnderstanding\\DotNetCoreUnderstanding.csproj",
+      "projectUniqueName": "C:\\D\\Logical\\Practice\\DotNetCoreUnderstanding\\DotNetCoreUnderstanding.csproj",
       "projectName": "DotNetCoreUnderstanding",
-      "projectPath": "C:\\D\\Logical\\LogicalPrograms\\DotNetCoreUnderstanding\\DotNetCoreUnderstanding.csproj",
+      "projectPath": "C:\\D\\Logical\\Practice\\DotNetCoreUnderstanding\\DotNetCoreUnderstanding.csproj",
       "packagesPath": "C:\\Users\\1025562\\.nuget\\packages\\",
-      "outputPath": "C:\\D\\Logical\\LogicalPrograms\\DotNetCoreUnderstanding\\obj\\",
+      "outputPath": "C:\\D\\Logical\\Practice\\DotNetCoreUnderstanding\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

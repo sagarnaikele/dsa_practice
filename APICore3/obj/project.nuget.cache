@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6L+dBf5e2CQW+oGvkPBdL4CbWqTIvBMQONpm80ffjJ2AAXiBQm35z/7ik74bb5Y0YNOjgn/cybVYKlH3rRP5zg==",
+  "dgSpecHash": "2unIoBO57Sa7bR2YJyBbUr1sRI+RROd92PvB7D9X5LkQvbrs8HPOp65Ab+vFJC9chRf1b2UAEkN7HA4EeAf44Q==",
   "success": true,
-  "projectFilePath": "C:\\D\\Logical\\LogicalPrograms\\APICore3\\APICore3.csproj",
+  "projectFilePath": "C:\\D\\Logical\\Practice\\APICore3\\APICore3.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

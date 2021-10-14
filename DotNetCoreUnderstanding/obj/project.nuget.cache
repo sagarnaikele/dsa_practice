@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tUOSFn2ffum4PISdprVXtsIXFMoqmvsjDsbTVRiJ9tR+WifcWwo6l5N9NOahpsH2v2u/ixg7k3Hbqe1Qsdmo2A==",
+  "dgSpecHash": "WqICItF9rCrqX5vB8HTvxTAS+f0Rpf9skozDDksnYuOvB7aezVgA3FoMzIY1UoVLVSOA7krIfBzCejabotAkIQ==",
   "success": true,
-  "projectFilePath": "C:\\D\\Logical\\LogicalPrograms\\DotNetCoreUnderstanding\\DotNetCoreUnderstanding.csproj",
+  "projectFilePath": "C:\\D\\Logical\\Practice\\DotNetCoreUnderstanding\\DotNetCoreUnderstanding.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1025562\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\1025562\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
