@@ -33,3 +33,4 @@ msbuild.wrn
 # Visual Studio 2019
 .vs/
 LogicalPrograms/.vs/
+/DynamicProgramming/Pattern/NCRPattern.exe
